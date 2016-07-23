@@ -1,4 +1,4 @@
 Roadmap
 =======
 
-Plans and commitments for Chitwanix 2.0 
+Plans and commitments for Chitwanix Development
