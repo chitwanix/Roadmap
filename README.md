@@ -9,3 +9,4 @@ Chitwanix 2.0 Development Roadmap
 6. Sagarmatha needs redesigned and redeveloped.
 7. New pacakges
 8. Repo needs recreated.
+9. Website needs redesigned.
