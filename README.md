@@ -10,3 +10,4 @@ Chitwanix 2.0 Development Roadmap
 7. New pacakges
 8. Repo needs recreated.
 9. Website needs redesigned.
+10. Logo needs redesigned.
